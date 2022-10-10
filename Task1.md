@@ -4,7 +4,7 @@
 
 > 2. `docker pull`: This command is used to download a Docker image or a repository locally on the host from a public or private registry. When we run any container and the specified Docker image is not present locally then it first pulls it from the registry.  
 
-![docker_pull](image/docker_pull)
+![docker_pull](image/docker_pull.png)
 
 > 3. `docker build`: This command is used to builds docker images from a Dockerfile and a 'context'. A build’s context is the set of files located in the specified ``PATH`` or ``URL``.
 
